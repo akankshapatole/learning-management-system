@@ -1,0 +1,1 @@
+This is the full LMS project with working HTML and backend skeleton.
